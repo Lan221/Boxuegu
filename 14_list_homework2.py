@@ -11,3 +11,5 @@ while True:
     else:
         print(my_list[num],num)
         print(random.choice(my_list))
+
+    //test new version
