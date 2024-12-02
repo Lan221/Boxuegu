@@ -1,0 +1,26 @@
+[
+  {
+    "error": "pop",
+    "name" : "Lan",
+    "age" : 43,
+    "iswomen" : true,
+    "hobby" : ["Reading","Hiking","Cooking"],
+    "address":{
+    "country" : "France",
+    "city": "Paris"
+            }
+  },
+
+  {
+    "error": "pop",
+    "name" : "Feng",
+    "age" : 48,
+    "iswomen" : false,
+    "hobby" : ["Reading","Hiking","Coding"],
+    "address":{
+    "country" : "China",
+    "city": "Beijing"
+            }
+  }
+
+]

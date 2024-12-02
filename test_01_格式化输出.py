@@ -1,0 +1,7 @@
+# num1 = float(input('please input number 1:'))
+# num2 = float(input('please input number 2:'))
+# num_sum = round(num1 + num2,2)
+# print(f'{num1}+{num2} = {num_sum}')
+print(8 ** 5)
+print('this is',end=' ')
+print('correct')

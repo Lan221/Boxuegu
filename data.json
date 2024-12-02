@@ -1,0 +1,11 @@
+{
+  "name" : "Lan",
+  "age" : 18,
+  "iswomen" : true,
+  "hobby" : ["Reading","Hiking","Cooking"],
+  "address":{
+    "country" : "France",
+    "city": "Paris"
+  }
+}
+[16, 30, 54, 55, 83][8, 28, 32, 33, 88]
